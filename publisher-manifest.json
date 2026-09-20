@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "427b84d19576a899745e734f",
+  "owner": "wbafwstcc",
+  "repo": "page-d1dde30f9aaed7ecbf84a0ea",
+  "title": "GLaDOS",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d1dde30f9aaed7ecbf84a0ea",
+      "a": "GLaDOS",
+      "b": "机场官网线路发布页",
+      "entity": "GLaDOS",
+      "brand": "GLaDOS",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ea2cc7ef3ec7f61b7ab3db0f219cc4e6060d70223c696876fe56624edc05036a",
+      "content": {
+        "primary_entity": "GLaDOS",
+        "keyword1": "GLaDOS",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "依据设备选择适配客户端，查阅对应订阅配置文档完成导入。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连接即刻开始",
+          "AI_DESCRIPTION": "，GLaDOS 提供三档套餐，基础版每月 15 元含 100GB 流量，旗舰版每月 35 元含 300GB 流量并支持 5 台设备，团队版每月 85 元含 1000GB 流量与 20 台设备，按年付分别只需 150 元、350 元与 850 元。各档均提供流媒体解锁与节点线路，旗舰版与团队版额外包含专线或高带宽选项。",
+          "AI_FAQ_ANSWER_1": "基础版每月 15 元，按年付 150 元，含 100GB 流量与 3 台设备。适合轻度浏览与基础流媒体需求。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台，团队版支持 20 台。如需更多设备同时在线，可在套餐内叠加或选择更高档位。",
+          "AI_FAQ_ANSWER_3": "客户端地址与订阅链接由系统在购买后提供，按客户端文档导入订阅即可。不同系统可选用对应版本。",
+          "AI_FAQ_ANSWER_4": "基础版提供普通线路节点池，旗舰版包含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_5": "月付与年付可灵活选择，年付方案分别是 150 元、350 元与 850 元，适合长期使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版包含哪些权益？",
+          "AI_FAQ_QUESTION_2": "最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "如何获取客户端并导入订阅？",
+          "AI_FAQ_QUESTION_4": "不同套餐的节点线路有什么区别？",
+          "AI_FAQ_QUESTION_5": "按月付还是按年付更合适？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度选择适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按用途选择。",
+          "AI_FEATURE_TEXT_2": "支持 3 至 20 台设备同时在线，满足个人或团队需求。",
+          "AI_FEATURE_TEXT_3": "月付或年付灵活切换，年付方案更划算。",
+          "AI_FEATURE_TITLE_1": "流量匹配",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三个步骤完成从选购到使用的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "GLaDOS 提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 到 1000GB 流量，支持 3 至 20 台设备同时在线，适配多种客户端。用户可根据自身设备数量与流量需求选择对应方案，完成订阅配置后即可连接使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备需求",
+          "AI_HIGHLIGHT_1": "基础版月付 15 元",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版 15 元、旗舰版 35 元、团队版 85 元，按需选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "查阅所选客户端对应的系统适配要求，确认设备环境满足条件。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅链接，完成配置后连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "GLaDOS 套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bjsljxl.cn",
+    "host": "bjsljxl.cn"
+  },
+  "file_hashes": {
+    "index.html": "131d68e2ae095338506febfe721781e6ac35b347d2bd0e22f934b28808ece844",
+    "sitemap.xml": "83efc6d2a252287d326d50f0775681c1af79961765aeb875d2abd40628bcf301",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "33e42e28963841014f89c5ef458571113c9a9fdf32c4b6d891dc49ee34e6f808",
+    "robots.txt": "caddd4496f498877df078a75f0668819dd2604791e0e1157c69c57c10f3b0b15",
+    "7e287635bf2665427300d348c28b39d8.txt": "0981a34cf9bb656fc81cf8d0bd4e561078e1464305b9c68f82fa536c30a3cfe2"
+  },
+  "revision": "6ca71a56e371f6742eea29f1a48c7509a706a0641927d8c0d957664f2ee3e90b"
+}
